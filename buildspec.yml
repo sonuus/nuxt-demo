@@ -22,6 +22,6 @@ artifacts:
   #files:
   #  - dist*/**
   files:
-        - '**/*'
-    base-directory: 'dist*'
+    - '**/*'
+  base-directory: 'dist*'
   discard-paths: yes
